@@ -1,8 +1,6 @@
 # [VRR-TAMP](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9976944)
 
 > **One-Stage Visual Relationship Referring With Transformers and Adaptive Message Passing**, (TIP 2022)<br>
-> Hang Wang, Youtian Du, Yabin Zhang, Shuai Li, and Lei Zhang. <br>
-
 > Hang Wang<sup>1,2</sup> |
 > Youtian Du<sup>1</sup> |
 [Yabin Zhang](https://ybzh.github.io/)<sup>2</sup> |
