@@ -4,7 +4,7 @@
 > Hang Wang, Youtian Du, Yabin Zhang, Shuai Li, and Lei Zhang. <br>
 
 > Hang Wang<sup>1,2</sup> |
-> Youtian Du<sup>2</sup> |
+> Youtian Du<sup>1</sup> |
 [Yabin Zhang](https://ybzh.github.io/)<sup>2</sup> |
 [Shuai Li](https://scholar.google.com/citations?user=Bd73ldQAAAAJ&hl=zh-TW)<sup>2</sup> |
 [Lei Zhang](https://www4.comp.polyu.edu.hk/~cslzhang/)<sup>2</sup> <br>
